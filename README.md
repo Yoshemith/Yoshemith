@@ -1,10 +1,17 @@
-### Hi, I'm Yoshemith 👋
+
+<h1 align="center">Hey there, I'm Yoshemith 👋</h1>
+
+<h3 align="center">Full Stack Developer, React Enthusiast and Lifelong Learner</h3>
 
 ![](https://komarev.com/ghpvc/?username=Yoshemith&color=006bed)
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <h3> :man: &nbsp;About me </h3>
 
 <!--
+### Hi, I'm Yoshemith 
+
 **Yoshemith/Yoshemith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,13 +21,15 @@ Here are some ideas to get you started:
 - 🔭 &nbsp; I’m currently working on **My Portfolio** and on a project with **React** using <a href="https://pokeapi.co/">**PokeAPI**</a>.
 - 🌱 &nbsp; I’m currently learning **Ruby on Rails**.
 - 👯 &nbsp; I’m looking to collaborate on new and exciting projects with **React, NodeJS or RubyOnRails**.
-- 💼 &nbsp; I'm currently working Independently, so if you like my work, contact me!
+- 💼 &nbsp; I'm currently working Independently, if you like my work, contact me!
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshemith&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOUR-EMAILL)](mailto:YOUR-EMAIL)
 
@@ -51,7 +60,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Yoshemith">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoshemith&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
-
+<a href="https://github.com/Yoshemith">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=tokyonight" />
+</a>
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
