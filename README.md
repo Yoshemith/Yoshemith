@@ -3,7 +3,9 @@
 
 <h3 align="center">Full Stack Developer, React Enthusiast and Lifelong Learner</h3>
 
-![](https://komarev.com/ghpvc/?username=Yoshemith&color=006bed)
+[![Linkedin: Yoshemith](https://img.shields.io/badge/-Yoshemith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoshemith/)](https://www.linkedin.com/in/yoshemith/)
+[![GitHub Yoshemith]( https://img.shields.io/github/followers/Yoshemith?label=follow&style=social)](https://github.com/Yoshemith/)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Yoshemith&color=006bed)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -12,6 +14,7 @@
 <!--
 ### Hi, I'm Yoshemith 
 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 **Yoshemith/Yoshemith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -64,7 +67,4 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=tokyonight" />
 </a>
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Yoshemith](https://img.shields.io/badge/-Yoshemith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yoshemith/)](https://www.linkedin.com/in/yoshemith/)
-[![GitHub Yoshemith]( https://img.shields.io/github/followers/Yoshemith?label=follow&style=social)](https://github.com/Yoshemith/)
