@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
 <a href="https://github.com/Yoshemith">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yoshemith&theme=tokyonight&count_private=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yoshemith&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Yoshemith">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=tokyonight" />
 </a>
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
