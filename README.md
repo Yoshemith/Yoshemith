@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOUR-EMAILL)](mailto:YOUR-EMAIL)
   ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white.)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+<img width="212" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Yoshemith&repo=Yoshemith&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshemith&layout=compact&theme=cobalt&hide_border=true" />
 -->
 
 <h3> :rocket: &nbsp;My skills </h3>
@@ -75,5 +77,5 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yoshemith&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Yoshemith">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avinash-218&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
 </a>
