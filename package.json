@@ -1,0 +1,24 @@
+{
+  "name": "Yoshemith",
+  "version": "1.0.0",
+  "description": "Yoshemith README Github profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshemith/Yoshemith.git"
+  },
+  "keywords": [],
+  "author": "Yoshemith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yoshemith/Yoshemith/issues"
+  },
+  "homepage": "https://github.com/Yoshemith/Yoshemith#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
