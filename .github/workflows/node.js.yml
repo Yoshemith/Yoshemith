@@ -6,22 +6,20 @@ name: Update README.md
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  workflow_dispatch:
     
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
     
     steps:
     - uses: actions/checkout@v2
     - uses: actions/setup-node@v1
       with:
-        node-version: 14.x
+        node-version: '14'
         cache: 'npm'
     - run: npm install
     - run: npm run update-readme
@@ -29,5 +27,5 @@ jobs:
         git config user.name yoshemith
         git config user.email cv3227@innovaccion.mx
         git add README.md
-        git commit -m "[bot] Update README with latest tweet"
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest tweet"
         git push origin main
