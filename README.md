@@ -15,7 +15,7 @@
 <h3> :man: &nbsp;About me </h3>
 
 - 🔭 &nbsp; I’m currently working on <a href="https://www.yoshemith.com">**My Portfolio**</a> and on a project with **React** using <a href="https://pokeapi.co/">**PokeAPI**</a>.
-- 🌱 &nbsp; I’m currently learning **Ruby on Rails**.
+- 🌱 &nbsp; I’m currently learning **Ruby on Rails** and **AWS**.
 - 👯 &nbsp; I’m looking to collaborate on new and exciting projects with **React, NodeJS or RubyOnRails**.
 - 💼 &nbsp; I'm currently working Independently, if you like my work, contact me!
 
