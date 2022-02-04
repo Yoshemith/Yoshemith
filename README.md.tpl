@@ -58,6 +58,6 @@
 - 💬 My latest tweet: %{{latest_tweet}}%
 
  <a href="https://github.com/Yoshemith">
-   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
+   <img style="display: flex;" width="375px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
  </a>
 
