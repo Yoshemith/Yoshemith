@@ -58,8 +58,6 @@
 - 💬 My latest tweet: %{{latest_tweet}}%
 
 <div align="right">
-<h3> :artificial_satellite: &nbsp;My stats</h3>
-
   <a href="https://github.com/Yoshemith">
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
   </a>
