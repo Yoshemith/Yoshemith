@@ -45,8 +45,8 @@
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
   ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=rubyonrails)
 
-<div width="375px">
-**Tools and more...**
+<div width="350px" style="display: flex;">
+<h3> **Tools and more...** </h3> 
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=mvc)
@@ -59,6 +59,6 @@
 - 💬 My latest tweet: %{{latest_tweet}}%
 </div>
  <a href="https://github.com/Yoshemith">
-   <img style="display: flex;" width="375px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
+   <img width="350px" style="display: flex;" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
  </a>
 
