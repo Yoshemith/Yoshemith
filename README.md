@@ -60,8 +60,5 @@
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
 <a href="https://github.com/Yoshemith">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Yoshemith&theme=tokyonight&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/Yoshemith">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
 </a>
