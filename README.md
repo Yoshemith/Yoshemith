@@ -56,7 +56,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [@Yoshemith: console.log("Hello World");](https://twitter.com/Yoshemith/status/1456032893965324296)
+- 💬 My latest tweet: [[Action required] Your RSS.app Trial has Expired - Sat Feb 05 2022](https://rss.app)
 </div>
 
  <a href="https://github.com/Yoshemith">
