@@ -56,7 +56,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [[Action required] Your RSS.app Trial has Expired - Sun Feb 06 2022](https://rss.app)
+- 💬 My latest tweet: [[Action required] Your RSS.app Trial has Expired - Mon Feb 07 2022](https://rss.app)
 </div>
 
  <a href="https://github.com/Yoshemith">
