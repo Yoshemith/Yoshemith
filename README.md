@@ -45,8 +45,7 @@
   ![ExpressJS](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
   ![RubyOnRails](https://img.shields.io/badge/-RubyOnRails-333333?style=flat&logo=rubyonrails)
 
-<div>
-<h3> **Tools and more...** </h3> 
+**Tools and more...**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![MVC](https://img.shields.io/badge/-MVC-333333?style=flat&logo=mvc)
@@ -56,10 +55,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [[Action required] Your RSS.app Trial has Expired - Mon Feb 07 2022](https://rss.app)
-</div>
+- 💬 My latest tweet: [@Yoshemith: console.log("Hello World");](https://www.twitter.com/yoshemith)
 
- <a href="https://github.com/Yoshemith">
-   <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
- </a>
+<h3> :artificial_satellite: &nbsp;My stats</h3>
 
+<a href="https://github.com/Yoshemith">
+  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
+</a>
