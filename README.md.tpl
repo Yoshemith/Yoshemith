@@ -14,7 +14,7 @@
 
 <h3> :man: &nbsp;About me </h3>
 
-- 🔭 &nbsp; I’m currently working on my <a href="https://www.yoshemith.com">**portfolio**</a> and building <a href="https://www.joup.io/">**Joup**</a> "**The Future of Agrotech**" - Winners of Trepcamp Demo Day Challenge 2022.
+- 🔭 &nbsp; I’m currently working on my <a href="https://www.yoshemith.com">**portfolio**</a> and building <a href="www.joup.io/">**Joup**</a> "**The Future of Agrotech**" - Winners of Trepcamp Demo Day Challenge 2022.
 - 🌱 &nbsp; I’m currently learning **Ruby on Rails**, **Postgresql** and **AWS**.
 - 👯 &nbsp; I’m looking to collaborate on new and exciting projects with **React, NodeJS or RubyOnRails**.
 - 💼 &nbsp; I'm currently developing <a href="https://www.ufinty.com/">**Ufinty**</a> "**The Tinder of Finances**", if you like my work, contact me!
