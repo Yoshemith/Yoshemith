@@ -55,7 +55,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [@Yoshemith: console.log("Hello World");](https://www.twitter.com/yoshemith)
+- 💬 My latest tweet: [@Yoshemith: Testing Github Actions](https://www.twitter.com/yoshemith)
 
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
