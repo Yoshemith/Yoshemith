@@ -53,7 +53,12 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [@Yoshemith: Testing Github Actions](https://www.twitter.com/yoshemith)
+- 💬 My latest tweet: [@codigofacilito: RT by @Yoshemith: Anunciamos 🚨
+
+Inscripciones abiertas al Bootcamp de React por Código Facilito.
+
+12 semanas con profesores expertos para aprender React a fondo 👇
+https://codigofacilito.com/react](https://www.twitter.com/yoshemith)
 
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
