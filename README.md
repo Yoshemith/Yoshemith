@@ -53,7 +53,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [@Yoshemith: Testing Github Actions](https://www.twitter.com/yoshemith)
+- 💬 My latest tweet: [@Yoshemith: Justo a tiempo, terminando el reto de la primer semana de #tecnologosglobales de la mano de @platzi y @JoinTerminal 🚀
+
+Excelente contenido de los masters @teffcode, @degranda10 y @fjuandc 🤓
+
+Muchas gracias también por la live class a Priscila, @Franco_Carole y @lord_byront 🙌](https://www.twitter.com/yoshemith)
 
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
