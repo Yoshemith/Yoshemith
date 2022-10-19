@@ -53,11 +53,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [@Yoshemith: Justo a tiempo, terminando el reto de la primer semana de #tecnologosglobales de la mano de @platzi y @JoinTerminal 🚀
+- 💬 My latest tweet: [@Yoshemith: Rough week and a bit late this time, but I still managed to complete last week's challenge.
 
-Excelente contenido de los masters @teffcode, @degranda10 y @fjuandc 🤓
+Kudos to @sd and @CarlosIplusone3 for such amazing courses. Great stuff!
 
-Muchas gracias también por la live class a Priscila, @Franco_Carole y @lord_byront 🙌](https://www.twitter.com/yoshemith)
+@Franco_Carole and Liliana Carbono as well for the soft skills session
+
+#tecnologosglobales @platzi @JoinTerminal](https://www.twitter.com/yoshemith)
 
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
