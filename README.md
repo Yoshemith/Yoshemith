@@ -14,9 +14,9 @@
 
 <h3> :man: &nbsp;About me </h3>
 
-- 🔭 &nbsp; I’m currently working on my <a href="https://www.yoshemith.com">**portfolio**</a> and as a Software Engineer at <a href="https://www.beelder.pro/">**Beelder**</a>.
-- 🌱 &nbsp; I’m currently learning **Java**, **Postgresql** and **PHP**.
-- 💼 &nbsp; I’m looking to collaborate on new and exciting projects with **React/NodeJS, Java/Spring or PHP**.
+- 🔭 &nbsp; I’m currently working as a Software Engineer at <a href="https://www.beelder.pro/">**Beelder**</a>.
+- 🌱 &nbsp; I’m currently learning **Spring Boot**, **AWS** and **Docker**.
+- 💼 &nbsp; I’m looking to collaborate on new and exciting projects with **React/NodeJS, Java/Spring or API development**.
 
 <!-- 
 - 🤔 I’m looking for help with ...
