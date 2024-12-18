@@ -52,9 +52,3 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-<h3> :artificial_satellite: &nbsp;My stats</h3>
-
-<a href="https://github.com/Yoshemith">
-  <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=Yoshemith&theme=tokyonight" />
-</a>
