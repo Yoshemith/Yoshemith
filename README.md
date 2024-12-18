@@ -53,14 +53,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-- 💬 My latest tweet: [@Yoshemith: Rough week and a bit late this time, but I still managed to complete last week's challenge.
-
-Kudos to @sd and @CarlosIplusone3 for such amazing courses. Great stuff!
-
-@Franco_Carole and Liliana Carbono as well for the soft skills session
-
-#tecnologosglobales @platzi @JoinTerminal](https://www.twitter.com/yoshemith)
-
 <h3> :artificial_satellite: &nbsp;My stats</h3>
 
 <a href="https://github.com/Yoshemith">
